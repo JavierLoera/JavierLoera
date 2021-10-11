@@ -8,5 +8,5 @@
 
 - 📫Encuantrame aqui: 
 - linkedin: https://www.linkedin.com/in/javierloerahdz/
-- website: https://www.my-website-two-beta.vercel.app
+- website: my-website-two-beta.vercel.app/
 
