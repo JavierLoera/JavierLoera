@@ -2,15 +2,11 @@
 
 
 - 🌱 Me encuentro aprendiendo algo nuevo acerca de desarrollo web todo los días.
-- 👯 I’m looking to collaborate on ...
+- 👯 Estoy disponible para trabajar.
 
 
-- 💬 Ask me about .
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 📫Encuantrame aqui:
-- linkedin:
-- website:
+- 📫Encuantrame aqui: 
+- linkedin: https://www.linkedin.com/in/javierloerahdz/
+- website: my-website-two-beta.vercel.app
 
