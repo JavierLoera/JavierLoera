@@ -8,5 +8,4 @@
 
 - 📫Encuantrame aqui: 
 - linkedin: https://www.linkedin.com/in/javierloerahdz/
-- website: https://my-website-lovat-two.vercel.app/
-
+- website: https://my-website-javierloera.vercel.app/
