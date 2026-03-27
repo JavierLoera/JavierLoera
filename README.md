@@ -32,4 +32,62 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 <a href="https://github.com/JavierLoera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLoera&langs_count=10&title_color=f97316&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                590 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+🌆 Daytime                2027 commits        ████████████░░░░░░░░░░░░░   49.22 % 
+🌃 Evening                1088 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌙 Night                  413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Thursday                 1004 commits        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/03/2026 23:53:07 UTC
 <!--END_SECTION:waka-->
