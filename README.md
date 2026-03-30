@@ -32,6 +32,8 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 <a href="https://github.com/JavierLoera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLoera&langs_count=10&title_color=f97316&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -88,5 +90,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2026 03:26:22 UTC
+ Last Updated on 30/03/2026 03:29:36 UTC
 <!--END_SECTION:waka-->
