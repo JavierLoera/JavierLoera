@@ -28,4 +28,68 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2026%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                590 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌆 Daytime                2039 commits        ████████████░░░░░░░░░░░░░   49.36 % 
+🌃 Evening                1088 commits        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+🌙 Night                  414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Tuesday                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 1004 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+Blade Template           4 hrs 15 mins       ████████████████░░░░░░░░░   64.16 % 
+CSS                      1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+PHP                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+
+🔥 Editors: 
+Antigravity              6 hrs 35 mins       █████████████████████████   99.42 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+💻 Operating System: 
+WSL                      6 hrs 35 mins       █████████████████████████   99.42 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/03/2026 22:26:43 UTC
 <!--END_SECTION:waka-->
