@@ -1,99 +1,23 @@
-Hi 👋 My name is Jesus Loera
-============================
-
-Full stack developer
---------------------
-
-Full stack developer focused on backend development, APIs, and system integrations. Experienced with PHP (Yii, Laravel), Angular/Ionic, and NestJS. I enjoy building scalable systems, optimizing processes, and solving real-world problems through clean and efficient code.
-
-* 🌍  I'm based in Monterrey, Mèxico
-* 🖥️  See my portfolio at [my website](http://my-website-javierloera.vercel.app/)
-* ✉️  You can contact me at [jesus\_loera\_15@hotmail.com](mailto:jesus_loera_15@hotmail.com)
-* 🧠  I'm currently learning aws
-* 👥  I'm looking to collaborate on interesting projects
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/JavierLoera" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/javierloerahdz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/JavierLoera" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JavierLoera"><img src="https://github-readme-stats.vercel.app/api?username=JavierLoera&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JavierLoera's GitHub stats" /></a>
-
-<a href="http://www.github.com/JavierLoera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierLoera&stroke=000000&background=1c1917&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/JavierLoera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLoera&langs_count=10&title_color=f97316&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                590 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌆 Daytime                2035 commits        ████████████░░░░░░░░░░░░░   49.31 % 
-🌃 Evening                1088 commits        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-🌙 Night                  414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+→ Quitar `### Badges`, dejar solo `<b>My GitHub Stats</b>`
 
-```text
-Monday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Thursday                 1004 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+---
+
+**Streak** — cambiar `currStreakNum=000000` → `currStreakNum=ffffff` (era negro sobre fondo oscuro):
+```
+https://github-readme-streak-stats.herokuapp.com/?user=JavierLoera&stroke=000000&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true
 ```
 
+**Top Languages** — cambiar `text_color=000000` → `text_color=ffffff`:
+```
+https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLoera&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages
+```
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-PHP                      35 mins             ██████████░░░░░░░░░░░░░░░   40.56 % 
-Blade Template           32 mins             █████████░░░░░░░░░░░░░░░░   37.08 % 
-Text                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
+**Quitar bloque de Editores** — en el bloque WakaTime eliminar estas líneas:
+```
 🔥 Editors: 
 Antigravity              1 hr 24 mins        ████████████████████████░   97.34 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-
-💻 Operating System: 
-WSL                      1 hr 24 mins        ████████████████████████░   97.34 % 
-Windows                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
-
-
- Last Updated on 31/03/2026 03:20:54 UTC
-<!--END_SECTION:waka-->
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
