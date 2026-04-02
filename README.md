@@ -28,9 +28,9 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -59,15 +59,15 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           4 hrs 15 mins       ████████████████░░░░░░░░░   64.16 % 
-CSS                      1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-PHP                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Blade Template           5 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
+PHP                      2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+CSS                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 💻 Operating System: 
-WSL                      6 hrs 35 mins       █████████████████████████   99.42 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+WSL                      13 hrs 37 mins      █████████████████████████   99.72 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +87,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 03:34:15 UTC
+ Last Updated on 02/04/2026 02:58:34 UTC
 <!--END_SECTION:waka-->
