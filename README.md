@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
@@ -59,15 +59,15 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           5 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-PHP                      2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-CSS                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Blade Template           8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
+JavaScript               2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+PHP                      2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+CSS                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 💻 Operating System: 
-WSL                      13 hrs 37 mins      █████████████████████████   99.72 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+WSL                      18 hrs 20 mins      ████████████████████████░   96.45 % 
+Windows                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +87,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 02:58:34 UTC
+ Last Updated on 03/04/2026 03:19:01 UTC
 <!--END_SECTION:waka-->
