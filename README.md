@@ -59,15 +59,15 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
-JavaScript               2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-PHP                      2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-CSS                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Blade Template           8 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.08 % 
+JavaScript               2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+CSS                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+PHP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-WSL                      18 hrs 20 mins      ████████████████████████░   96.45 % 
-Windows                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+WSL                      17 hrs 38 mins      ████████████████████████░   96.32 % 
+Windows                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +87,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 02:51:37 UTC
+ Last Updated on 05/04/2026 03:28:50 UTC
 <!--END_SECTION:waka-->
