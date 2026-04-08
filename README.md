@@ -35,21 +35,21 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                590 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-🌆 Daytime                2045 commits        ████████████░░░░░░░░░░░░░   49.40 % 
-🌃 Evening                1091 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌙 Night                  414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌞 Morning                590 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+🌆 Daytime                2051 commits        ████████████░░░░░░░░░░░░░   49.47 % 
+🌃 Evening                1091 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+🌙 Night                  414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Tuesday                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Thursday                 1006 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Friday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Monday                   505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Tuesday                  499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                703 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Thursday                 1006 commits        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Friday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 ```
 
 
@@ -59,15 +59,15 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           7 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
-JavaScript               2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-CSS                      2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-PHP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Blade Template           3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
+JavaScript               2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+PHP                      2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+CSS                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 💻 Operating System: 
-WSL                      16 hrs 57 mins      ████████████████████████░   96.39 % 
-Windows                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+WSL                      11 hrs 45 mins      ███████████████████████░░   93.80 % 
+Windows                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +87,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2026 03:21:43 UTC
+ Last Updated on 08/04/2026 03:24:13 UTC
 <!--END_SECTION:waka-->
