@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
@@ -59,15 +59,11 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.36 % 
-JavaScript               1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-CSS                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-PHP                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+PHP                      8 mins              ████████████████████████░   96.94 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-WSL                      4 hrs 42 mins       █████████████████████░░░░   85.83 % 
-Windows                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +83,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 03:18:27 UTC
+ Last Updated on 10/04/2026 03:32:23 UTC
 <!--END_SECTION:waka-->
