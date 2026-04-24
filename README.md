@@ -35,21 +35,21 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-🌆 Daytime                2059 commits        ████████████░░░░░░░░░░░░░   49.42 % 
-🌃 Evening                1094 commits        ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌙 Night                  414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌞 Morning                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌆 Daytime                2062 commits        ████████████░░░░░░░░░░░░░   49.46 % 
+🌃 Evening                1094 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+🌙 Night                  414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                708 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 1007 commits        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Friday                   641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Monday                   507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Wednesday                708 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Thursday                 1010 commits        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Friday                   641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Sunday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 ```
 
 
@@ -59,25 +59,25 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-PHP                      2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
-Text                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Blade Template           3 hrs 33 mins       ██████████████░░░░░░░░░░░   55.77 % 
+PHP                      1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Text                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-WSL                      6 hrs 18 mins       ████████████████████░░░░░   79.62 % 
-Windows                  1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+WSL                      6 hrs 18 mins       █████████████████████████   98.92 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -87,5 +87,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2026 03:36:36 UTC
+ Last Updated on 24/04/2026 03:38:43 UTC
 <!--END_SECTION:waka-->
