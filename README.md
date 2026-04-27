@@ -59,14 +59,14 @@ Sunday                   680 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Blade Template           3 hrs 33 mins       ██████████████░░░░░░░░░░░   56.38 % 
-PHP                      1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Text                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Blade Template           2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.34 % 
+PHP                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Text                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-WSL                      6 hrs 18 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +86,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 03:46:39 UTC
+ Last Updated on 27/04/2026 03:51:27 UTC
 <!--END_SECTION:waka-->
