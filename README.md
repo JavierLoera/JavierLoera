@@ -28,6 +28,8 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2032%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I Mostly Code in JavaScript** 
@@ -47,5 +49,5 @@ Blade                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 04:22:53 UTC
+ Last Updated on 30/05/2026 04:08:20 UTC
 <!--END_SECTION:waka-->
