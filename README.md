@@ -32,39 +32,6 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                544 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-🌆 Daytime                1921 commits        ██████████████░░░░░░░░░░░   54.13 % 
-🌃 Evening                886 commits         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌙 Night                  198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Wednesday                531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 856 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Friday                   657 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Saturday                 84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Sunday                   610 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -82,5 +49,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 04:57:58 UTC
+ Last Updated on 15/06/2026 05:15:37 UTC
 <!--END_SECTION:waka-->
