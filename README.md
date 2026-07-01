@@ -35,21 +35,21 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                556 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-🌆 Daytime                2001 commits        ██████████████░░░░░░░░░░░   54.72 % 
-🌃 Evening                902 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+🌞 Morning                556 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌆 Daytime                2007 commits        ██████████████░░░░░░░░░░░   54.79 % 
+🌃 Evening                902 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
 🌙 Night                  198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Tuesday                  423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Wednesday                554 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Thursday                 878 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Friday                   674 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Monday                   432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Wednesday                554 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Thursday                 878 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Friday                   677 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 Saturday                 85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Sunday                   611 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Sunday                   611 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 ```
 
 
@@ -68,11 +68,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-PHP                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Blade                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+PHP                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Blade                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -82,5 +82,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 04:16:56 UTC
+ Last Updated on 01/07/2026 04:45:21 UTC
 <!--END_SECTION:waka-->
