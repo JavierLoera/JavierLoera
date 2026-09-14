@@ -28,9 +28,9 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -61,36 +61,36 @@ Sunday                   227 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      13 hrs 53 mins      ████████████████░░░░░░░░░   64.49 % 
-Blade Template           4 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+PHP                      12 hrs 18 mins      ████████████████░░░░░░░░░   65.11 % 
+Blade Template           4 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-WSL                      21 hrs 32 mins      █████████████████████████   100.00 % 
+WSL                      18 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 23 mins (90.06%)
+⏱ AI Coding Time: 16 hrs 53 mins (89.38%)
 
-✍️ 1,843 lines written by AI, 149 lines written by hand (92.52% AI-written)
+✍️ 1,728 lines written by AI, 135 lines written by hand (92.75% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 365 AI Prompts
+🧠 32 AI Sessions, 307 AI Prompts
 
-Gemini                   2,531 lines         █████████████████████████   100.00 % 
+Gemini                   2,411 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.52% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
+🤖 AI-Driven — 92.75% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 29.98% of changed lines were hand-edited
+🚀 High AI Trust — 21.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,5 +110,5 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 04:31:02 UTC
+ Last Updated on 14/09/2026 04:37:24 UTC
 <!--END_SECTION:waka-->
