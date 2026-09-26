@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%203%20mins-blue?style=flat)
 
@@ -37,21 +37,21 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-🌆 Daytime                1425 commits        ███████████████░░░░░░░░░░   58.40 % 
-🌃 Evening                516 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌙 Night                  124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌞 Morning                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+🌆 Daytime                1432 commits        ███████████████░░░░░░░░░░   58.40 % 
+🌃 Evening                518 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+🌙 Night                  124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Tuesday                  386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Wednesday                460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Thursday                 484 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Friday                   467 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Sunday                   234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Tuesday                  386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Thursday                 484 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Friday                   479 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Sunday                   234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 
 
@@ -61,36 +61,36 @@ Sunday                   234 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      13 hrs 3 mins       ████████████████████░░░░░   81.43 % 
-Blade Template           2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+PHP                      11 hrs 4 mins       ████████████████████░░░░░   81.21 % 
+Blade Template           1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-WSL                      16 hrs 2 mins       █████████████████████████   100.00 % 
+WSL                      13 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 43 mins (79.34%)
+⏱ AI Coding Time: 9 hrs 12 mins (67.52%)
 
-✍️ 3,704 lines written by AI, 113 lines written by hand (97.04% AI-written)
+✍️ 2,113 lines written by AI, 255 lines written by hand (89.23% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 275 AI Prompts
+🧠 25 AI Sessions, 183 AI Prompts
 
-Gemini                   4,497 lines         █████████████████████████   100.00 % 
+Gemini                   2,886 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.04% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.26% of changed lines were hand-edited
+🤖 AI-Driven — 89.23% of written lines came from AI
+📝 Concise Prompter — average 410 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 22.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -110,5 +110,5 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 04:38:38 UTC
+ Last Updated on 26/09/2026 04:42:25 UTC
 <!--END_SECTION:waka-->
