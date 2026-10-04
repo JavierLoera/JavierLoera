@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%203%20mins-blue?style=flat)
 
@@ -61,14 +61,14 @@ Sunday                   236 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      4 hrs 20 mins       █████████████░░░░░░░░░░░░   52.61 % 
-Blade Template           2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+PHP                      4 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.95 % 
+Blade Template           2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.53 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-WSL                      8 hrs 15 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,5 +94,5 @@ CSS                      6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 05:02:30 UTC
+ Last Updated on 04/10/2026 05:34:39 UTC
 <!--END_SECTION:waka-->
