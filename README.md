@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%203%20mins-blue?style=flat)
 
@@ -37,21 +37,21 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-🌆 Daytime                1532 commits        ███████████████░░░░░░░░░░   58.03 % 
-🌃 Evening                576 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+🌞 Morning                400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+🌆 Daytime                1534 commits        ███████████████░░░░░░░░░░   58.06 % 
+🌃 Evening                576 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
 🌙 Night                  132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Tuesday                  450 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                496 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Thursday                 502 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Friday                   509 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Monday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  450 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Wednesday                496 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Thursday                 502 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Friday                   511 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Sunday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Sunday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 
 
@@ -61,14 +61,14 @@ Sunday                   236 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      5 hrs 53 mins       ███████████████████░░░░░░   77.84 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Blade Template           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+PHP                      7 hrs 9 mins        ████████████████████░░░░░   81.47 % 
+Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Blade Template           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-WSL                      7 hrs 34 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,5 +94,5 @@ CSS                      6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 04:28:41 UTC
+ Last Updated on 24/10/2026 04:19:02 UTC
 <!--END_SECTION:waka-->
