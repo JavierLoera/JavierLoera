@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%203%20mins-blue?style=flat)
 
@@ -37,21 +37,21 @@ src="https://img.shields.io/github/followers/JavierLoera?logo=github&style=for-t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                406 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-🌆 Daytime                1536 commits        ██████████████░░░░░░░░░░░   57.81 % 
-🌃 Evening                583 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-🌙 Night                  132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+🌞 Morning                409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌆 Daytime                1557 commits        ██████████████░░░░░░░░░░░   57.92 % 
+🌃 Evening                589 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+🌙 Night                  133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Tuesday                  454 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Wednesday                504 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Thursday                 509 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Friday                   505 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Sunday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Monday                   381 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Wednesday                507 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Thursday                 511 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Friday                   530 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Sunday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 ```
 
 
@@ -61,14 +61,14 @@ Sunday                   236 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      2 hrs 48 mins       ██████████████░░░░░░░░░░░   57.65 % 
-Markdown                 1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Blade Template           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+PHP                      2 hrs 49 mins       █████████████░░░░░░░░░░░░   51.32 % 
+Markdown                 1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Blade Template           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-WSL                      4 hrs 53 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,11 +80,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      18 repos            ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-JavaScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+PHP                      19 repos            ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+JavaScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
@@ -94,5 +94,5 @@ CSS                      6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierLoera/JavierLoera/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 05:29:28 UTC
+ Last Updated on 31/10/2026 05:14:20 UTC
 <!--END_SECTION:waka-->
